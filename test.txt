@@ -1,7 +1,2 @@
 ab
 cd
-i
-add
-the
-text
-here
